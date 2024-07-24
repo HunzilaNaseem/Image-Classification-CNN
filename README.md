@@ -3,3 +3,8 @@ This is an image classification project on Deep Learning. Using convolutional Ne
 
 Supervisior:
 https://github.com/Anwar-Ali-Sathio 
+
+Group Partners
+Hunzila Bin Naseem 
+Komail Rai
+Muhammad Junaid
